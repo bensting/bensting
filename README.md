@@ -9,7 +9,7 @@ Independent full-stack developer (7+ years) building production products end-to-
 
 #### 🚀 Things I've shipped
 
-**[Voicica.ai](https://voicica.ai)** —Full-stack AI voice & creative platform, live in production with several thousand active users across web and native Android app (Google Play(https://play.google.com/store/apps/details?id=ai.voicica.app)).
+**[Voicica.ai](https://voicica.ai)** —Full-stack AI voice & creative platform, live in production with several thousand active users across web and native Android app ([Google Play](https://play.google.com/store/apps/details?id=ai.voicica.app)).
 - Built solo end-to-end: Next.js 15 + TypeScript frontend, deployed on Cloudflare Workers edge network (zero cold starts, global <100ms TTFB)
 - Integrated 5 AI providers (Azure TTS, Google TTS, Fish Audio, Gemini, Kie.ai) behind a unified API with async job queue (Cloudflare Queues) to handle long-running synthesis tasks
 - Cross-platform from a single codebase — Web, PWA, and native iOS/Android via Capacitor with OTA updates bypassing app store review cycles
