@@ -1,4 +1,4 @@
-### Hi, I'm Ben 👋
+### Hi, I'm Sai 👋
 
 Independent full-stack developer (7+ years) building production products end-to-end — architecture, backend, frontend, payments, deployment. Based in Bangkok 🇹🇭, working remote.
 
